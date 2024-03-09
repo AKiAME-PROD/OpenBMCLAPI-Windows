@@ -1,0 +1,2 @@
+# OpenBMCLAPI-Windows
+为希望参与到由@bangbang93开发的OpenBMCLAPI项目的Windows用户提供简化程序，基于openbmclapi。
