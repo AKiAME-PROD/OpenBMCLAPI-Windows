@@ -21,4 +21,4 @@ BMCLAPI，由@bangbang93开发，构成BMCL框架的一部分，旨在缓解中�
 5. WebUI账号密码默认为openbmclapi，访问端口请在config中修改。
 
 ### 程序截图
--
+![预览图01-分布式集群面板首页](https://wetem.cn/openbmclapi-windows-webui/prev1.png)
